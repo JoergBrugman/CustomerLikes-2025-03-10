@@ -12,6 +12,6 @@ pageextension 50200 "BSCL Book Factbox" extends "BSB Book Factbox"
                 ToolTip = 'Specifies the value of the No. of Customer Likes field.', Comment = '%';
             }
         }
-        //TODO Kakulation des Flowfiels sicherstellen/richtigstellen
+        //[ ] Kakulation des Flowfiels sicherstellen/richtigstellen
     }
 }
